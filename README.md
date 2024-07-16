@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-This project is developed for the Data Structures and Algorithm course (CSE2003). It is a C++ based Basic Music Player that demonstrates the application of various data structures. The key data structures used in this project include:
-
+ It is a C++ based Basic Music Player that demonstrates the application of various data structures. The key data structures used in this project include:
  **Doubly Linked List**: To manage the playlist of songs.
  **Stacks**: To keep track of the history of played songs (implementing the "previous" functionality).
  **Queues**: To manage the upcoming songs (implementing the "next" functionality).
